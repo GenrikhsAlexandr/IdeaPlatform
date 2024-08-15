@@ -1,0 +1,16 @@
+<resources>
+    <string name="appName">Idea Platform test task</string>
+    <string name="listProducts">Список товаров</string>
+    <string name="search">Поиск товаров</string>
+    <string name="titleUpdateAmount">Количество товара</string>
+    <string name="titleDelete">Удаление товара</string>
+    <string name="textDelete">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Принять</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="amount">На складе</string>
+    <string name="date">Дата добавления</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
