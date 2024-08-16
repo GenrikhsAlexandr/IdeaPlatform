@@ -3,16 +3,16 @@ agp = "8.5.2"
 coreSplashscreen = "1.0.1"
 hilt = "2.49"
 hiltNavigationCompose = "1.2.0"
-kotlin = "1.9.0"
+kotlin = "2.0.0"
 coreKtx = "1.13.1"
-kotlinxCoroutines = "1.7.3"
-kotlinxSerializationJson = "1.5.0"
+kotlinxCoroutines = "1.9.0-RC.2"
+kotlinxSerializationJson = "1.6.3"
 lifecycleRuntimeKtx = "2.8.4"
 activityCompose = "1.9.1"
 composeBom = "2024.06.00"
 navigationCompose = "2.7.7"
 kotlinSerialization = "2.0.0"
-ksp = "1.9.0-1.0.13"
+ksp = "2.0.10-1.0.24"
 roomKtx = "2.6.1"
 appcompat = "1.7.0"
 material = "1.12.0"
@@ -56,4 +56,6 @@ jetbrainsKotlinPluginSerialization = { id = "org.jetbrains.kotlin.plugin.seriali
 kotlinKapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
 kotlinParcelize = { id = "org.jetbrains.kotlin.plugin.parcelize", version.ref = "kotlin" }
 ksp = {id = "com.google.devtools.ksp", version.ref = "ksp"}
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+
 
